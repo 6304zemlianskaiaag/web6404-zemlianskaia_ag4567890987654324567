@@ -5,5 +5,5 @@
  
  Тема научно-исследовательской работы: Спектральный анализ дифференциальных операторов на графах.
 
-<img width="272" height="365" alt="image" src="https://github.com/user-attachments/assets/7550e933-02ea-4bce-a877-904316a0c5b2" />
+<img width="272" height="365" alt="image" src="https://github.com/user-attachments/assets/7550e933-02ea-4bce-a877-904316a0c5b2" /> (просто забавная альпака)
 
